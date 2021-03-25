@@ -5,7 +5,7 @@
 ### Minor Programmeren Najaar 2020-2021
 ### Universiteit van Amsterdam
 ### Team'JOM-Intelligence'
-#### Martijn van Veen, Olaf Stringer, Jan-Joost Raedts
+#### Martijn van Veen, Olaf Stringer
 
 
 ## Introduction
