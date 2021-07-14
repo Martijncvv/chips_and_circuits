@@ -7,6 +7,15 @@
 ### Team'JOM-Intelligence'
 #### Martijn van Veen, Olaf Stringer
 
+## Web UI
+<p align="center"> 
+  <img src="code/images/chipsAndCircuitsWeb.png" alt="Website UI " width="700" >
+</p>
+
+## Result of difficult chip
+<p align="center"> 
+  <img src="code/images/chipsAndCircuitsResult.png" alt="Website UI " width="700" >
+</p>
 
 ## Introduction
 The setup of this assignment is creating an algorithm that is able to find an optimal routing of wires connecting several (uniform)logic-gates that form a hypothetical microchip.
