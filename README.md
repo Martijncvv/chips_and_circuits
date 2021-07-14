@@ -7,7 +7,7 @@
 ### Team'JOM-Intelligence'
 #### Martijn van Veen, Olaf Stringer
 
-## Web UI
+## Web UI to display algorithms
 <p align="center"> 
   <img src="code/images/chipsAndCircuitsWeb.png" alt="Website UI " width="700" >
 </p>
